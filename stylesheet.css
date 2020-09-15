@@ -84,10 +84,9 @@ header {
   z-index: 10;
 }
 
-
 .header-left h1 {
-  font-color: #fff;
-  font-size: 45px;
+  color: #fff;
+  font-size: 32px;
 }
 
 .header-left {
