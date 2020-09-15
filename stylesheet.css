@@ -84,9 +84,10 @@ header {
   z-index: 10;
 }
 
-.logo {
-  width: 124px;
-  margin-top: 20px;
+
+header h1 {
+  font-color: #fff;
+  font-size: 45px;
 }
 
 .header-left {
