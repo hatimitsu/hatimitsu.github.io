@@ -85,7 +85,7 @@ header {
 }
 
 
-header h1 {
+.header-left h1 {
   font-color: #fff;
   font-size: 45px;
 }
