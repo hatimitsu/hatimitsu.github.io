@@ -87,6 +87,7 @@ header {
 .header-left h1 {
   color: #fff;
   font-size: 20px;
+  line-height: 65px;
 }
 
 .header-left {
